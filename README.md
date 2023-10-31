@@ -1,2 +1,2 @@
 # data-science
-DATA SCIENCE 
+DATA SCIENCE COURSE
