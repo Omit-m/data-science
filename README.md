@@ -1,4 +1,9 @@
 # data-science
+<<<<<<< HEAD
 
 <h1>DATA SCIENCE COURSE</h1>
 STARTING DAY : 28/10/23
+=======
+DATA SCIENCE COURSE
+STARTING DAY : 28/10/23
+>>>>>>> 6a59e547d503ae9f4deeafbca363fae1c87d5213
