@@ -1,5 +1,4 @@
 count = 0
-while count <100000:
+while count <100:
     print( count ," omit")
-    #count +=1 //infenetive loop
-    count +=1
+    # count +=1 #infenetive loop
