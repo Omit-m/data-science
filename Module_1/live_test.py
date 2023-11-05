@@ -1,5 +1,5 @@
 score = float(input("Enter the student's score: "))
-if(score <+= 100):
+if(score <= 100):
     if score >= 90:
         grade = "A"
     elif score >= 80:
