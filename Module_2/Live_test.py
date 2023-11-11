@@ -1,5 +1,5 @@
 def hour_converter():
-    hour=float(input(" Enter an hour : "))
+    hour=float(input(" Enter an hours : "))
     minute=hour*60
     print(f" {hour} hours  is equal to  {minute} minute .")
 hour_converter()
