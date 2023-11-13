@@ -1,10 +1,9 @@
 class Summation:
-    def sum_and_print(omit, num1, num2):
+    def __init__(omit, num1, num2):
+        # omit.num1 = num1
+        # omit.num2 = num2
         result = num1 + num2
         print(f"The sum of {num1} and {num2} is: {result}")
 
-# Creating an instance of Summation
-summation_instance = Summation()
+summation_instance = Summation(5,7)
 
-# Calling the sum_and_print method with two numbers
-summation_instance.sum_and_print(5, 7)
