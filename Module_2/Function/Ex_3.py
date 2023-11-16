@@ -2,10 +2,10 @@ def my_function(*kids):
   """
     HFUHBHJFGUYHB HJVCUYEAH HGVYTGCH HVCYVHCUFCVT
     """
-  print("The youngest child is " + kids[2])
+  print("The youngest child is " +kids[2])
 
 
 my_function("Emil", "Tobias", "Linus")
-my_function.__doc__
+print(my_function.__doc__)
 
 # lambda,map,filter
