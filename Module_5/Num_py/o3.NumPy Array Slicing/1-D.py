@@ -8,5 +8,7 @@ arr=np.array([10,20,30])
 
 print(arr[0:4:2]) # [start:End:step]
 
+# We pass slice instead of index like this: [start:end].
 
+# We can also define the step, like this: [start:end:step].
 
