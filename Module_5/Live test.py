@@ -14,3 +14,6 @@ matrix = array.reshape(10, 10)
 
 result = matrix % 5 == 0
 print(result)
+
+
+
